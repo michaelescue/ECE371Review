@@ -2,7 +2,7 @@
 ## A cumulative collection of review items for ECE 371 @ PDX.EDU
 
 ### Header Template.
-
+'''
 /*
 Title: Capture
 File Type: Header
